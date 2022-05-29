@@ -1,0 +1,25 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_1553.jpeg</filename>
+	<source>
+		<database>ILSVRC_2012</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>70</ymin>
+			<xmax>468</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

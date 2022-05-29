@@ -1,0 +1,25 @@
+<annotation>
+	<folder>dog</folder>
+	<filename>dog_8083.jpeg</filename>
+	<source>
+		<database>ILSVRC_2012</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>279</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>1</ymin>
+			<xmax>256</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>
